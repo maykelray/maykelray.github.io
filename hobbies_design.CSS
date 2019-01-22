@@ -1,0 +1,24 @@
+body
+{
+  text-align: center;
+  color:  #C0C0C0;
+  background-color:   #505050;
+}
+
+p
+{
+  font-family: Arial;
+  font-size: 20px;
+  color: #003366;
+  background-color:#C0C0C0;
+}
+
+ul
+{
+	font-size: 20px;
+	font-family: Arial;
+	text-align: center;
+	list-style-position: inside;
+	background-color:#C0C0C0;
+	 color: #003366;
+}
